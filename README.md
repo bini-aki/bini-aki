@@ -1,27 +1,13 @@
-## Hi there 👋
-
-<!--
-**bini-aki/bini-aki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/101859114?v=4" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <!-- ማራኪ የዴቨሎፐር ምስል -->
+  <img src="https://raw.githubusercontent.com/MartinLichtenberg/MartinLichtenberg/main/assets/developer.gif" width="350" alt="Developer Illustration"/>
 </p>
 
-<h1 align="center">✨ Biniam Aklilu (Bini)</h1>
-
+<!-- ልክ እየተጻፈ የሚንቀሳቀስ ጽሑፍ (Typing Effect) -->
 <p align="center">
-  <strong>Frontend Developer | Specializing in React & Next.js Ecosystems</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Biniam+Aklilu!;Frontend+Developer;Specializing+in+React+%26+Next.js" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
